@@ -155,7 +155,6 @@ questions = [{'Errors related to bias can be reduced by using large sample sizes
 {'Accuracy is defined as the proportion of true positives and true negatives over all the predictions made by the classifier':'t'},
 {'Consider a multilayer perceptron with bias units and 2 layers, where the first layer contains 3 perceptrons and the second layer contains 1 perceptron. With such a structure the multilayer perceptron contrains 2 bias units and 4 outgoing arcs in total':'t'},
 {'In a classification problem of newspapers articles, statistical independence between class and input term means that Pr⁡(class=c and term=t)=Pr⁡(class=c)+Pr⁡(term=t)':'f'},
-{'In k-means soft clustering, the batch update should be preferred with respect to the online update when the number of entities is very large':'t'},
 {'In k-means soft clustering, each entity is assigned probabilistically to all clusters':'t'},
 {'K-means clustering is not a supervised learning technique':'f'},
 {'In bottom-up clustering at each step the most similar sets of points are merged together until a stopping criteria is met and the merging stops':'t'},
